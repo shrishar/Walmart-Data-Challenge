@@ -1,0 +1,2 @@
+# Walmart-Data-Challenge
+Walmart operates 11,450 stores in 27 countries, managing inventory across varying cultures and demographics. In this hack, Walmart challenges participants to assess the impact of promotions and inﬂuence of competitors on sales and customer count within stores. Intuitively, we may expect better sales/customer count on days promotions were laid out but the eﬀect is confounded by promotions extended by competitors as well.
